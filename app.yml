@@ -1,0 +1,3 @@
+source_dir: /wikimo/testpic/*
+target_dir: /wikimo/testpic_bak/
+width: 200
